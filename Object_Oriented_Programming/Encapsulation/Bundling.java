@@ -1,4 +1,4 @@
-package Java.Object_Oriented_Programming.PolyMorphism.Encapsulation;
+package Java.Object_Oriented_Programming.Encapsulation;
 
 class Info{
     private String name;
