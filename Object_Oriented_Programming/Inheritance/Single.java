@@ -1,4 +1,4 @@
-package Java.Object_Oriented_Programming;
+package Java.Object_Oriented_Programming.Inheritance;
 public class Single {
     public static void main(String[] args) {
         Parent obj = new Child();
